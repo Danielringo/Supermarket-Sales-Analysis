@@ -1,0 +1,181 @@
+Input Date;Customer Name;Gender;Domicile;Member Code;Product ID;Category;Name of Product;Barcode;Quantity ; Price item ;Tax;Member Point;Total Payment
+02/02/2023;Sean Laura Edelyn;F;Jakarta;P1114;PB103;Perishable;Cake & bread;Platinum;5;49999;2%;20 Point;248995
+02/02/2023;Jennifer Savira ;F;Bogor;P1214;PB101;Perishable;Chilled & frozen product;Platinum;8;69999;2%;20 Point;558592
+02/02/2023;Raissa Zeviw;F;Bandung;P1414;PB103;Perishable;Cake & bread;Platinum;8;49999;2%;20 Point;398992
+02/02/2023;Nadia Sarah Jayadi;F;Bogor;G1111;PB102;Perishable;Eggs;Gold;2;25500;2%;5 Point;50490
+02/02/2023;Michael Harvey Tan;M;Jakarta;G1412;NF104;Non Food Product;Baby need;Gold;2;195000;2%;10 Point;386100
+02/02/2023;Andreas Wijaya Lukita;M;Jakarta;G1411;NF101;Non Food Product;Personal care;Gold;2;85500;2%;5 Point;169290
+02/02/2023;Widya Michael Sofiany;F;Jakarta;G1413;NF101;Non Food Product;Personal care;Gold;3;85500;2%;15 Point;254790
+03/02/2023;Selena Swift Widodo;F;Jakarta;S1113;NF102;Non Food Product;Baby need;Silver;4;195000;2%;15 Point;776100
+03/02/2023;Putri Selena Utama;F;Tangerang;S1111;NF104;Non Food Product;Baby need;Silver;4;195000;2%;5 Point;776100
+03/02/2023;Harry Anderson;M;Bogor;S1314;FP101;Food Product;Instant Noodle & Food;Silver;2;85000;2%;20 Point;168300
+03/02/2023;Jimmy Michael Peter;M;Bogor;S1611;FP102;Food Product;Instant Noodle & Food;Silver;3;85000;2%;5 Point;253300
+03/02/2023;Sammy Hutagalung;M;Tangerang;S1512;FP104;Food Product;Instant Noodle & Food;Silver;2;85000;2%;10 Point;168300
+03/02/2023;Andin Dini Kusuma;F;Jakarta;G1111;GM104;General Merchandise Product;Apparel, towel and underwear;Gold;2;75000;2%;5 Point;148500
+03/02/2023;Metha Viviane;F;Jakarta;G1411;GM104;General Merchandise Product;Battery, film, electrical & lamp;Gold;3;85000;2%;5 Point;253300
+03/02/2023;Justin Alfredo;M;Jakarta;G1312;GM103;General Merchandise Product;Battery, film, electrical & lamp;Gold;3;85000;2%;10 Point;253300
+03/02/2023;Nicholas Agustino ;M;Jakarta;G1313;GM103;General Merchandise Product;Battery, film, electrical & lamp;Gold;7;85000;2%;15 Point;593300
+03/02/2023;Chalvin Peterman;M;Jakarta;G1311;GM103;General Merchandise Product;Housewares & party need;Gold;8;110500;2%;5 Point;881790
+04/02/2023;Felicia Widyotama;F;Jakarta;P1115;GM103;General Merchandise Product;Apparel, towel and underwear;Platinum;12;75000;3%;25 Point;897750
+04/02/2023;Michael Anderson;M;Jakarta;P1415;GM102;General Merchandise Product;Offce supplier & stationery;Platinum;12;135500;3%;25 Point;1621935
+04/02/2023;Agustino Cristianaldo;M;Jakarta;G1111;GM101;General Merchandise Product;Offce supplier & stationery;Gold;11;135500;3%;5 Point;1486435
+05/02/2023;Aldo Alex Kusuma;M;Jakarta;G1115;GM104;General Merchandise Product;Comb, accessories & footwear;Gold;9;55500;3%;25 Point;497835
+05/02/2023;Idris Jamaluddin;M;Tangerang;G1115;FP104;Food Product;Diet & Diabeter foods;Gold;9;85000;3%;25 Point;762450
+05/02/2023;Irfan Haikal Fikri;M;Tangerang;G1415;FP103;Food Product;Honey, jam, cereal and cheese;Gold;5;155000;2%;25 Point;771900
+05/02/2023;Hamdani Ainun Kosasih;F;Jakarta;G1612;FP102;Food Product;Snack, biscuit & ready to eat;Gold;4;55000;2%;10 Point;218900
+05/02/2023;Haris Luthfi Yahya;M;Jakarta;G1212;FP102;Food Product;Honey, jam, cereal and cheese;Gold;3;155000;2%;10 Point;461900
+05/02/2023;Abimanyu Abbas Hardim;M;Jakarta;G1213;FP102;Food Product;Snack, biscuit & ready to eat;Gold;2;55000;2%;15 Point;108900
+05/02/2023;Sri Ratih Indah;F;Jakarta;G1215;FP101;Food Product;Medicine;Gold;3;185000;2%;25 Point;551300
+05/02/2023;Adeline Diany Putri;F;Jakarta;P1214;FP101;Food Product;Cigarette & lighter;Platinum;3;170000;2%;20 Point;506600
+05/02/2023;Lady Marcia Anne;F;Jakarta;P1414;NF103;Non Food Product;House hold;Platinum;3;225000;2%;20 Point;670500
+05/02/2023;Retno Tika Utami;F;Tangerang;G1111;NF103;Non Food Product;Paper goods;Gold;2;45500;2%;5 Point;90090
+05/02/2023;Marcella Beverly Park Eun;F;Bogor;G1412;NF101;Non Food Product;House hold;Gold;2;225000;2%;10 Point;445500
+05/02/2023;Lestari Suci Endang Kusuma;F;Bogor;G1411;NF102;Non Food Product;Paper goods;Gold;4;45500;2%;5 Point;181090
+05/02/2023;Meghan Catrine Witney;F;Bogor;G1413;PB104;Perishable;Snack & Candy ;Gold;4;45555;2%;15 Point;181309
+05/02/2023;Marieh Houston Stevenly;F;Bogor;S1113;PB104;Perishable;Eggs;Silver;5;25500;2%;15 Point;126990
+05/02/2023;James Leonard;M;Bogor;S1111;PB103;Perishable;Eggs;Silver;5;25500;2%;5 Point;126990
+05/02/2023;Ben Bastian Budi;M;Bogor;S1314;PB101;Perishable;Fruit;Silver;7;89999;2%;20 Point;628193
+06/02/2023;Bayu Muhammad Rinaldy;M;Bogor;S1611;PB101;Perishable;Fruit;Silver;8;89999;2%;5 Point;718192
+06/02/2023;Rivaldo Dimas Bagus;M;Bogor;P1115;PB101;Perishable;Fruit;Platinum;8;89999;2%;25 Point;718192
+06/02/2023;Chika Amelia Putri;F;Bogor;S1611;PB104;Perishable;Eggs;Silver;7;25500;2%;5 Point;177990
+06/02/2023;Nadya Amelia Dewi Kusuma;F;Bogor;P1115;PB104;Perishable;Eggs;Platinum;7;25500;2%;25 Point;177990
+06/02/2023;Raissa Februariana;F;Tangerang;P1415;PB103;Perishable;Eggs;Platinum;5;25500;2%;25 Point;126990
+06/02/2023;Annisa Fajar Utama ;F;Tangerang;P1115;PB103;Perishable;Eggs;Platinum;4;25500;2%;25 Point;101490
+07/02/2023;Hadi Kusumaningrum;M;Tangerang;P1415;GM101;General Merchandise Product;Housewares & party need;Platinum;6;110500;2%;25 Point;660790
+07/02/2023;Wulandari Septiansyah;F;Tangerang;P1115;GM104;General Merchandise Product;Offce supplier & stationery;Platinum;8;135500;2%;25 Point;1081290
+07/02/2023;Esmeralda Tika Kusuma;F;Tangerang;P1415;FP104;Food Product;Baby milk & food;Platinum;8;175000;2%;25 Point;1396500
+07/02/2023;Tristan Toni Tobing;M;Jakarta;G1111;FP103;Food Product;Confectionary, candy & chocolate;Gold;9;65000;3%;5 Point;583050
+07/02/2023;Salsa Hasanuddin Kusomo;F;Jakarta;S1611;FP102;Food Product;Confectionary, candy & chocolate;Silver;11;65000;3%;5 Point;713050
+07/02/2023;Samuel Andreas Michael;M;Jakarta;G1113;FP102;Food Product;Canned Food & dried meat;Gold;10;90000;3%;15 Point;897300
+07/02/2023;Paul Scott Anderson;M;Jakarta;S1611;FP102;Food Product;Spices, soya, sauce and ingredient;Silver;9;95000;3%;5 Point;852150
+08/02/2023;Vinny Cynthia Lpusina;F;Jakarta;G1413;FP101;Food Product;Spices, soya, sauce and ingredient;Gold;5;95000;2%;15 Point;473100
+08/02/2023;Philip Edward Martin;M;Jakarta;S1113;FP101;Food Product;Spices, soya, sauce and ingredient;Silver;5;95000;2%;15 Point;473100
+08/02/2023;Sari Siregar Verianty;F;Jakarta;S1111;NF103;Non Food Product;Oral hygiene;Silver;3;115000;2%;5 Point;342700
+08/02/2023;Vanessa Elmatiana Putri;F;Jakarta;S1314;NF103;Non Food Product;Oral hygiene;Silver;2;115000;2%;20 Point;227700
+08/02/2023;George David Suhendy;M;Jakarta;S1611;PB103;Perishable;Snack & Candy ;Silver;2;45555;2%;5 Point;90199
+08/02/2023;Emanuella Julia Bebena;F;Jakarta;S1512;PB102;Perishable;Snack & Candy ;Silver;2;45555;2%;10 Point;90199
+08/02/2023;Shanti Natalia April;F;Jakarta;G1111;NF104;Non Food Product;House hold;Gold;4;225000;2%;5 Point;895500
+08/02/2023;Sandra Putri Marselyna;F;Jakarta;G1313;NF101;Non Food Product;Baby need;Gold;5;195000;2%;15 Point;971100
+08/02/2023;Abdul Salim Goddard;M;Jakarta;G1311;NF101;Non Food Product;Baby need;Gold;5;195000;2%;5 Point;971100
+08/02/2023;Elma Mawar Lalita;F;Jakarta;P1115;NF102;Non Food Product;Baby need;Platinum;7;195000;2%;25 Point;1361100
+08/02/2023;Vidy Verania Yusman;F;Jakarta;P1415;NF104;Non Food Product;House hold;Platinum;7;225000;2%;25 Point;1570500
+08/02/2023;Wishu Agus Ryan;M;Jakarta;G1111;FP101;Food Product;Cake mix;Gold;7;125000;2%;5 Point;872500
+09/02/2023;Samimora Aurora Putri;F;Jakarta;G1115;FP102;Food Product;Medicine;Gold;8;185000;2%;25 Point;1476300
+09/02/2023;Isabella Christina Sihombing;F;Jakarta;G1612;FP104;Food Product;Medicine;Gold;8;185000;2%;10 Point;1476300
+09/02/2023;Johanes Matius Benardy;M;Jakarta;G1212;GM104;General Merchandise Product;Apparel, towel and underwear;Gold;9;75000;3%;10 Point;672750
+09/02/2023;Maria Angel Shandi;F;Jakarta;G1213;NF104;Non Food Product;Paper goods;Gold;12;45500;3%;15 Point;544635
+09/02/2023;Pieters Mike Colbie;M;Tangerang;G1215;NF101;Non Food Product;Personal care;Gold;11;85500;3%;25 Point;937935
+09/02/2023;Emily Olivia Eva;F;Tangerang;P1214;NF101;Non Food Product;Paper goods;Platinum;11;45500;3%;20 Point;499135
+09/02/2023;Sophina Stevanie Lily;F;Tangerang;P1414;NF102;Non Food Product;Paper goods;Platinum;15;45500;3%;20 Point;681135
+10/02/2023;Oiiver Jackson Issander;F;Tangerang;P1115;NF104;Non Food Product;Personal care;Platinum;13;85500;3%;25 Point;1108935
+10/02/2023;Joshua Muhammad Noah;M;Bogor;P1415;FP101;Food Product;Snack, biscuit & ready to eat;Platinum;2;55000;2%;25 Point;108900
+10/02/2023;Charles Jacob William;M;Bogor;G1111;FP102;Food Product;Snack, biscuit & ready to eat;Gold;2;55000;2%;5 Point;108900
+10/02/2023;Lily Peony Isabella;F;Bogor;G1115;FP104;Food Product;Milk;Gold;2;70000;2%;25 Point;138600
+10/02/2023;Marry Christine Chloe;F;Bogor;G1115;GM104;General Merchandise Product;Apparel, towel and underwear;Gold;3;75000;2%;25 Point;223500
+10/02/2023;Rossa Setiana Dewi;F;Bogor;G1415;GM104;General Merchandise Product;Battery, film, electrical & lamp;Gold;4;85000;2%;25 Point;338300
+10/02/2023;Ellea Lyra Tia;F;Bogor;G1612;GM103;General Merchandise Product;Apparel, towel and underwear;Gold;5;75000;2%;10 Point;373500
+10/02/2023;Robbinson Ignatius Gary;M;Bogor;G1212;GM103;General Merchandise Product;Housewares & party need;Gold;6;110500;2%;10 Point;660790
+10/02/2023;Greek Philip Yordan;M;Bogor;G1213;GM103;General Merchandise Product;Battery, film, electrical & lamp;Gold;10;85000;3%;15 Point;847450
+11/02/2023;Sofia Belvaria Sirajuddin;F;Bogor;G1215;GM103;General Merchandise Product;Apparel, towel and underwear;Gold;9;75000;3%;25 Point;672750
+11/02/2023;Christiana Lady Diana;F;Bogor;P1214;GM102;General Merchandise Product;Housewares & party need;Platinum;5;110500;2%;20 Point;550290
+11/02/2023;Elisabeth Christy Dian;F;Jakarta;P1414;GM101;General Merchandise Product;Housewares & party need;Platinum;5;110500;2%;20 Point;550290
+11/02/2023;Aaron Carlos;M;Jakarta;G1111;GM104;General Merchandise Product;Apparel, towel and underwear;Gold;3;75000;2%;5 Point;223500
+12/02/2023;Diandra Citranti Deva;F;Jakarta;G1412;PB101;Perishable;Fruit;Gold;2;89999;2%;10 Point;178198
+12/02/2023;Edison Edelard Ronaldus;M;Jakarta;G1411;PB103;Perishable;Chilled & frozen product;Gold;2;69999;2%;5 Point;138598
+12/02/2023;Clarabella Marcia Maisieany;F;Jakarta;G1413;PB102;Perishable;Chilled & frozen product;Gold;2;69999;2%;15 Point;138598
+12/02/2023;Donelia Deva Sashikirana;F;Jakarta;S1113;PB104;Perishable;Cake & bread;Silver;4;49999;2%;15 Point;198996
+12/02/2023;Edison Aderlard Wijaya;M;Jakarta;S1111;NF104;Non Food Product;Personal care;Silver;5;85500;2%;5 Point;425790
+13/02/2023;Elden Alcane;F;Jakarta;S1314;NF101;Non Food Product;Personal care;Silver;5;85500;2%;20 Point;425790
+13/02/2023;Eileen Audrey Avisa;F;Jakarta;G1111;GM103;General Merchandise Product;Apparel, towel and underwear;Gold;7;75000;2%;5 Point;523500
+13/02/2023;Farrah Fillia Bernardina ;F;Jakarta;G1411;PB102;Perishable;Chilled & frozen product;Gold;7;69999;2%;5 Point;488593
+13/02/2023;Gamaliel Angelo;M;Jakarta;G1312;NF104;Non Food Product;Personal care;Gold;7;85500;2%;10 Point;596790
+13/02/2023;Jeanella Yachne Seera;F;Jakarta;G1313;NF101;Non Food Product;Personal care;Gold;8;85500;2%;15 Point;682290
+13/02/2023;Myesha Zuhaira;F;Jakarta;G1311;PB102;Perishable;Fruit;Gold;8;89999;2%;5 Point;718192
+14/02/2023;Quenna Zaafarana Zaviera;F;Jakarta;P1115;NF104;Non Food Product;Baby need;Platinum;9;195000;3%;25 Point;1749150
+14/02/2023;Raphael Agustin;M;Jakarta;P1415;NF101;Non Food Product;Baby need;Platinum;12;195000;3%;25 Point;2334150
+14/02/2023;Meinanda Aqila;F;Jakarta;G1111;PB102;Perishable;Fruit;Gold;11;89999;3%;5 Point;987289
+14/02/2023;Nathaniel Agam Bonjabi;M;Jakarta;G1115;GM103;General Merchandise Product;Apparel, towel and underwear;Gold;3;75000;2%;25 Point;223500
+14/02/2023;Adi Kusuma Adisucipto;M;Jakarta;G1115;PB102;Perishable;Chilled & frozen product;Gold;2;69999;2%;25 Point;138598
+15/02/2023;Beverly Benardette;F;Jakarta;G1415;FP104;Food Product;Beverage;Gold;2;75000;2%;25 Point;148500
+15/02/2023;Gracia Marcialiana;F;Jakarta;G1612;FP101;Food Product;Beverage;Gold;4;75000;2%;10 Point;298500
+15/02/2023;Vanilla Vanessa Adyana;F;Jakarta;G1212;FP104;Food Product;Tea, coffee and creamer;Gold;4;120000;2%;10 Point;477600
+15/02/2023;Sandra Dewi Munadi;F;Jakarta;G1213;GM103;General Merchandise Product;Housewares & party need;Gold;5;110500;2%;15 Point;550290
+15/02/2023;Angela Lay;F;Jakarta;G1111;GM103;General Merchandise Product;Battery, film, electrical & lamp;Gold;5;85000;2%;5 Point;423300
+15/02/2023;Xyavenna Aphrodite;F;Jakarta;G1411;FP104;Food Product;Beverage;Gold;7;75000;2%;5 Point;523500
+16/02/2023;Kevin Kim;M;Jakarta;G1312;PB102;Perishable;Fruit;Gold;8;89999;2%;10 Point;718192
+16/02/2023;Thomas Kim ;M;Jakarta;G1313;GM103;General Merchandise Product;Housewares & party need;Gold;8;110500;2%;15 Point;881790
+16/02/2023;Chase Lee;M;Jakarta;G1311;PB102;Perishable;Fruit;Gold;7;89999;2%;5 Point;628193
+17/02/2023;Gregorius Naldo;M;Jakarta;P1115;PB102;Perishable;Fruit;Platinum;7;89999;2%;25 Point;628193
+17/02/2023;Zahra Fairuznisa;F;Bekasi;P1415;PB102;Perishable;Fruit;Platinum;5;89999;2%;25 Point;448195
+17/02/2023;Zulfa Rufaida;F;Bekasi;G1111;FP104;Food Product;Beverage;Gold;4;75000;2%;5 Point;298500
+17/02/2023;Mark Lee;M;Bogor;G1115;FP104;Food Product;Snack, biscuit & ready to eat;Gold;6;55000;2%;25 Point;328900
+17/02/2023;Hendery Xiao;M;Bekasi;G1115;FP104;Food Product;Snack, biscuit & ready to eat;Gold;8;55000;2%;25 Point;438900
+17/02/2023;Natalie Angelique;F;Bekasi;G1415;NF104;Non Food Product;Oral hygiene;Gold;8;115000;2%;25 Point;917700
+18/02/2023;Cannelle Lounge;F;Bogor;G1612;NF101;Non Food Product;Oral hygiene;Gold;9;115000;3%;10 Point;1031550
+18/02/2023;Sunny Anne;F;Bekasi;G1212;GM103;General Merchandise Product;Housewares & party need;Gold;11;110500;3%;10 Point;1212185
+18/02/2023;Freya Grizelle;F;Bogor;G1213;NF104;Non Food Product;Paper goods;Gold;10;45500;3%;15 Point;453635
+19/02/2023;Iva Jovanka;F;Bekasi;G1215;FP101;Food Product;Tea, coffee and creamer;Gold;9;120000;3%;25 Point;1076400
+19/02/2023;Jovita Kyra;F;Tangerang;P1214;FP102;Food Product;Beverage;Platinum;5;75000;2%;20 Point;373500
+19/02/2023;Kirana  Meise;F;Tangerang;P1414;FP104;Food Product;Snack, biscuit & ready to eat;Platinum;5;55000;2%;20 Point;273900
+19/02/2023;Joy Zeline;F;Tangerang;G1111;GM104;General Merchandise Product;Housewares & party need;Gold;3;110500;2%;5 Point;329290
+19/02/2023;Jovanka Lovata;F;Tangerang;G1412;PB104;Perishable;Chilled & frozen product;Gold;2;69999;2%;10 Point;138598
+20/02/2023;Rosaline Luna;F;Tangerang;G1411;PB103;Perishable;Eggs;Gold;2;25500;2%;5 Point;50490
+20/02/2023;Arina Clarissa;F;Tangerang;G1413;PB101;Perishable;Eggs;Gold;2;25500;2%;15 Point;50490
+20/02/2023;Deolinda Elvina;F;Tangerang;S1113;PB101;Perishable;Eggs;Silver;4;25500;2%;15 Point;101490
+20/02/2023;Johannes Liam;M;Tangerang;G1115;PB101;Perishable;Chilled & frozen product;Gold;5;69999;2%;25 Point;348595
+21/02/2023;Jonathan Mason;M;Tangerang;P1414;PB104;Perishable;Chilled & frozen product;Platinum;5;69999;2%;20 Point;348595
+21/02/2023;Chelsea Wang;F;Tangerang;G1111;PB104;Perishable;Cake & bread;Gold;7;49999;2%;5 Point;348993
+21/02/2023;Santiago Wesley;F;Tangerang;G1412;PB103;Perishable;Cake & bread;Gold;7;49999;2%;10 Point;348993
+21/02/2023;Cornelia Francisca;F;Tangerang;G1411;PB103;Perishable;Cake & bread;Gold;7;49999;2%;5 Point;348993
+21/02/2023;Acacia Pearly;F;Tangerang;G1413;GM101;General Merchandise Product;Housewares & party need;Gold;8;110500;2%;15 Point;881790
+22/02/2023;Brandon Damian;M;Tangerang;S1113;GM104;General Merchandise Product;Battery, film, electrical & lamp;Silver;8;85000;2%;15 Point;678300
+22/02/2023;Daenerys Targaryen;M;Tangerang;S1111;FP104;Food Product;Beverage;Silver;9;75000;3%;5 Point;672750
+22/02/2023;Aiden Kim;M;Tangerang;S1314;FP103;Food Product;Tea, coffee and creamer;Silver;12;120000;3%;20 Point;1436400
+22/02/2023;Jesper Park;M;Tangerang;G1111;FP102;Food Product;Snack, biscuit & ready to eat;Gold;11;55000;3%;5 Point;603350
+23/02/2023;Paul Colin;M;Tangerang;G1411;FP102;Food Product;Snack, biscuit & ready to eat;Gold;11;55000;3%;5 Point;603350
+23/02/2023;Lilac Levina;F;Tangerang;G1312;FP102;Food Product;Snack, biscuit & ready to eat;Gold;15;55000;3%;10 Point;823350
+23/02/2023;Agatha Vanda;F;Tangerang;G1313;FP101;Food Product;Tea, coffee and creamer;Gold;13;120000;3%;15 Point;1556400
+23/02/2023;Nash Ace;M;Tangerang;G1311;FP101;Food Product;Tea, coffee and creamer;Gold;2;120000;2%;5 Point;237600
+24/02/2023;Lane Anderson;F;Tangerang;P1115;NF103;Non Food Product;Oral hygiene;Platinum;2;115000;2%;25 Point;227700
+24/02/2023;Emilia Alice;F;Tangerang;P1415;NF103;Non Food Product;Oral hygiene;Platinum;2;115000;2%;25 Point;227700
+24/02/2023;Cora Serenity;F;Tangerang;G1111;PB103;Perishable;Eggs;Gold;3;25500;2%;5 Point;75990
+25/02/2023;Nova Clara;F;Bekasi;G1115;PB102;Perishable;Eggs;Gold;4;25500;2%;25 Point;101490
+25/02/2023;Julius Daxton;M;Bekasi;G1115;NF104;Non Food Product;Baby need;Gold;5;195000;2%;25 Point;971100
+25/02/2023;Emery Jade;M;Bekasi;G1415;NF101;Non Food Product;Paper goods;Gold;7;45500;2%;25 Point;317590
+25/02/2023;Amy Teagen;M;Bekasi;S1113;NF101;Non Food Product;Paper goods;Silver;7;45500;2%;15 Point;317590
+25/02/2023;Dakota Jaxton;M;Bekasi;S1113;NF102;Non Food Product;Paper goods;Silver;5;45500;2%;15 Point;226590
+26/02/2023;Laila Velerine;F;Bekasi;P1415;NF104;Non Food Product;Baby need;Platinum;4;195000;2%;25 Point;776100
+26/02/2023;Seth Donovan;M;Bogor;S1611;FP101;Food Product;Beverage;Silver;6;75000;2%;5 Point;448500
+26/02/2023;Naomi Scott;M;Bekasi;S1611;FP102;Food Product;Snack, biscuit & ready to eat;Silver;8;55000;2%;5 Point;438900
+26/02/2023;Nikki Leona;F;Bekasi;G1115;FP104;Food Product;Tea, coffee and creamer;Gold;8;120000;2%;25 Point;957600
+27/02/2023;Taeyong Lee;M;Bogor;P1415;PB102;Perishable;Eggs;Platinum;9;25500;3%;25 Point;228735
+27/02/2023;Adora Suvviana;F;Bogor;S1113;FP104;Food Product;Tea, coffee and creamer;Silver;11;120000;3%;15 Point;1316400
+27/02/2023;Jasmine Hara;F;Bogor;S1113;FP101;Food Product;Snack, biscuit & ready to eat;Silver;10;55000;3%;15 Point;548350
+27/02/2023;Sirena Meise;F;Bekasi;G1115;FP104;Food Product;Tea, coffee and creamer;Gold;9;120000;3%;25 Point;1076400
+28/02/2023;Louise Adrivianne;F;Bekasi;G1115;GM103;General Merchandise Product;Apparel, towel and underwear;Gold;5;75000;2%;25 Point;373500
+28/02/2023;Aquaviviane Naine;F;Bekasi;P1415;GM103;General Merchandise Product;Battery, film, electrical & lamp;Platinum;5;85000;2%;25 Point;423300
+28/02/2023;Key Kim;M;Bekasi;P1415;FP104;Food Product;Snack, biscuit & ready to eat;Platinum;3;55000;2%;25 Point;163900
+28/02/2023;Vivianna Garcons;F;Bogor;G1115;PB102;Perishable;Eggs;Gold;2;25500;2%;25 Point;50490
+28/02/2023;Hazel Claire;F;Bogor;G1115;GM103;General Merchandise Product;Apparel, towel and underwear;Gold;2;75000;2%;25 Point;148500
+28/02/2023;Joseph Carter;M;Bekasi;G1115;PB102;Perishable;Chilled & frozen product;Gold;2;69999;2%;25 Point;138598
+01/03/2023;Dylan Luke;M;Bogor;P1415;PB102;Perishable;Eggs;Platinum;4;25500;2%;25 Point;101490
+01/03/2023;Ashley Greyson;F;Bekasi;P1415;PB102;Perishable;Eggs;Platinum;5;25500;2%;25 Point;126990
+01/03/2023;Ruby Willow;M;Bekasi;S1611;FP104;Food Product;Tea, coffee and creamer;Silver;5;120000;2%;5 Point;597600
+01/03/2023;Aubree Vivian;F;Bekasi;S1113;FP104;Food Product;Tea, coffee and creamer;Silver;7;120000;2%;15 Point;837600
+01/03/2023;Reese Paige;M;Bekasi;P1415;FP104;Food Product;Snack, biscuit & ready to eat;Platinum;7;55000;2%;25 Point;383900
+02/03/2023;Evan Maverick;M;Bekasi;S1611;NF104;Non Food Product;Baby need;Silver;7;195000;2%;5 Point;1361100
+02/03/2023;Aleyna Camelia;F;Bekasi;S1113;NF101;Non Food Product;Baby need;Silver;8;195000;2%;15 Point;1556100
+02/03/2023;Marcus Mrooklyn;M;Bekasi;G1115;GM103;General Merchandise Product;Apparel, towel and underwear;Gold;5;75000;2%;25 Point;373500
+02/03/2023;Irene Lee;F;Bogor;G1115;NF104;Non Food Product;Oral hygiene;Gold;4;115000;2%;25 Point;457700
+02/03/2023;Natasha Febrianti;F;Bogor;G1115;FP102;Food Product;Snack, biscuit & ready to eat;Gold;6;55000;2%;25 Point;328900
+02/03/2023;Angelique Nicole;F;Bogor;S1113;FP101;Food Product;Tea, coffee and creamer;Silver;8;120000;2%;15 Point;957600
+03/03/2023;Reynadya Farissa;F;Bogor;S1113;FP101;Food Product;Beverage;Silver;8;75000;2%;15 Point;598500
+03/03/2023;Jennie Kim;F;Bogor;S1113;NF103;Non Food Product;Baby need;Silver;9;195000;3%;15 Point;1749150
+03/03/2023;Johnny Seo;M;Jakarta;P1415;NF103;Non Food Product;Baby need;Platinum;11;195000;3%;25 Point;2139150
+04/03/2023;Alexander Lee;M;Jakarta;G1111;PB103;Perishable;Eggs;Gold;10;25500;3%;5 Point;254235
+04/03/2023;Cherrys Yohana;F;Jakarta;G1411;PB102;Perishable;Eggs;Gold;9;25500;3%;5 Point;228735
+04/03/2023;Roseanne Park;F;Bekasi;G1312;NF104;Non Food Product;Personal care;Gold;5;85500;2%;10 Point;425790
+04/03/2023;Rosi Tampubolon;F;Jakarta;G1313;NF101;Non Food Product;House hold;Gold;7;225000;2%;15 Point;1570500
+05/03/2023;Dhika Arisno;M;Bekasi;P1415;NF101;Non Food Product;House hold;Platinum;7;225000;2%;25 Point;1570500
+05/03/2023;Anastasia Belinda;F;Bekasi;S1113;NF102;Non Food Product;House hold;Silver;7;225000;2%;15 Point;1570500
+05/03/2023;Milaney Wangsa Widyatama;F;Bekasi;S1113;NF104;Non Food Product;Personal care;Silver;8;85500;2%;15 Point;682290
